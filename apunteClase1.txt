@@ -1,0 +1,12 @@
+Clase 1
+Stakeholder : persona interesada en el proyecto (no necesariamente monetario)
+
+-El arquitecto define los requisitos no fuincionales a partir de los funcionales
+-Cada proyecto tiene sus restricciones propias, estas definen las tecnologias a utilizar
+-la solucion de arquitectura va a depender de factores como:
+  -necesidades comerciales
+  -estructura organizacional
+  -complejidad de solucion
+-la solucion que entrega un arquitecto debe ser a largo plazo y facil de mantener, tambien debe poder manejar la carga de trabajo del cliente y abordar los desafios diarios
+-Arquitectura orientada a servicios 
+-Microservicios (JSON y REST)
