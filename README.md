@@ -1,2 +1,2 @@
-# arquitectura2023
+# Arquitectura2023
 Repositorio para el ramo de arquitectura año 2023 Duoc Uc
